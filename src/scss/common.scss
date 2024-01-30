@@ -63,5 +63,8 @@
 				text-decoration: underline;
 			}
 		}
+		&::before {
+			content: "/";
+		}
 	}
 }
